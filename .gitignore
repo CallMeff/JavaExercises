@@ -1,0 +1,8 @@
+EasyCalculate/target/
+target/
+.idea/
+*.iml
+*.classpath
+*.project
+*.class
+*.jar
